@@ -2275,9 +2275,7 @@ button:hover {
     display: flex;
     flex-wrap: nowrap;
   }
-  img {
-    width: 60%;
-  }
+
 
   .people{
     width: 100%;
@@ -2312,4 +2310,8 @@ button:hover {
  .people{
     width: 100%;
   }
+}
+
+p{
+  text-align: justify;
 }
