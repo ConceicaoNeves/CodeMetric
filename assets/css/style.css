@@ -2132,7 +2132,7 @@ section {
 }
 
 #footer .footer-top {
-  background: #0d2735;
+  background: #4c99c1;
   border-top: 1px solid #17455e;
   border-bottom: 1px solid #123649;
   padding: 60px 0 30px 0;
@@ -2147,7 +2147,7 @@ section {
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
-  color: #a2cce3;
+  color: #05151e;
   font-weight: 600;
 }
 
@@ -2183,7 +2183,7 @@ section {
 #footer .footer-top h4 {
   font-size: 18px;
   font-weight: 600;
-  color: #a2cce3;
+  color: #05151e;
   position: relative;
   padding-bottom: 12px;
 }
