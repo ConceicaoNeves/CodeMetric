@@ -1388,6 +1388,9 @@ section {
   align-items: center; /* Centraliza horizontalmente */
     }
 
+
+    /*justify-content: center; align-items: center;*/
+
     .team .member {
       width: 60%;
     }
