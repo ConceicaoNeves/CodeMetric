@@ -1114,6 +1114,7 @@ section {
   margin-right: -15px;
   margin-left: -15px;
   justify-content: center;
+  align-items: center;
 }
 
 .pricing .box {
